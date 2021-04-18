@@ -22,7 +22,7 @@
 					<section class="intro">
 						<header>
 							<h1>개발하는 정대리</h1>
-							<p>A free responsive site template designed by <a href="https://twitter.com/ajlkn">@ajlkn</a> / <a href="https://html5up.net">HTML5 UP</a></p>
+							<p>오늘도 빡코딩 하고 계신가요? 🔥👨‍💻 <a href="https://twitter.com/ajlkn">@ajlkn</a> / <a href="https://html5up.net">HTML5 UP</a></p>
 							<ul class="actions">
 								<li><a href="#first" class="arrow scrolly"><span class="label">Next</span></a></li>
 							</ul>
